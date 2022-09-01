@@ -1,5 +1,5 @@
 # Escursionismo
-## Un breve corso per arrivare preparati alla prossima stagione alpina.
+## Un breve corso di avvicinamento all'escursionismo per arrivare preparati alla prossima stagione alpina.
 
 - Preparazione fisica
 - Materiali e tecniche
